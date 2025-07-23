@@ -1,0 +1,12 @@
+.button-container {
+    padding: 12px;
+}
+
+button {
+    padding: 10px;
+    font-size: 14px;
+}
+
+#resultContainer {
+    margin-top: 10px;
+}
